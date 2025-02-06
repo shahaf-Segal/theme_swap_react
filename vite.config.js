@@ -5,7 +5,7 @@ import { defineConfig } from "vite";
 export default defineConfig({
   resolve: {
     alias: {
-      "@contexts": "/src/Contexts",
+      "@contexts": "/src/contexts",
     },
   },
   plugins: [react()],
