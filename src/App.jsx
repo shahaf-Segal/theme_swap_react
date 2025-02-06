@@ -1,4 +1,4 @@
-import { ThemeContext } from "@contexts/ThemeProvider";
+import { ThemeContext } from "@contexts/ThemeProvider.jsx";
 import { useContext } from "react";
 import "./App.css";
 import ThemeButton from "./components/Atoms/ThemeButton/ThemeButton";
